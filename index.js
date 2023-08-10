@@ -24,13 +24,13 @@ function writeToFile(fileName, answers) {
         let shapeChoice = "";
     if (answers.shape === "Triangle") {
       shapeChoice = new Triangle();
-      shapeString += `<polygon points="150, 18 244, 182 56, 182" fill="${answers.shapeBackgroundColor}"/>`;
+      shapeString += `<polygon points="150, 18 244, 182 56, 182" fill="${answers.shapeBgColor}"/>`;
     } else if (answers.shape === "Square") {
       shapeChoice = new Square();
-      shapeString += `<rect x="73" y="40" width="160" height="160" fill="${answers.shapeBackgroundColor}"/>`;
+      shapeString += `<rect x="73" y="40" width="160" height="160" fill="${answers.shapeBgColor}"/>`;
     } else {
       shapeChoice = new Circle();
-      shapeString += `<circle cx="150" cy="115" r="80" fill="${answers.shapeBackgroundColor}"/>`;
+      shapeString += `<circle cx="150" cy="115" r="80" fill="${answers.shapeBgColor}"/>`;
     }
   
     // <text> tag and user answers input to create logo lettering. 
