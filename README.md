@@ -8,7 +8,9 @@ This tool allows for users to generate simple logos based on a a set of response
 
 
 ## Examples 
-
+<img alt="Example Logo 1" src="https://github.com/Roqieux/Logo-Maker/blob/main/examples/example1.svg">
+<img alt="Example Logo 2" src="https://github.com/Roqieux/Logo-Maker/blob/main/examples/example2.svg">
+<img alt="Example Logo 3" src="https://github.com/Roqieux/Logo-Maker/blob/main/examples/example3.svg">
 
 ## Installation 
 
