@@ -5,7 +5,7 @@ This tool allows for users to generate simple logos based on a a set of response
 
 ## Application Preview 
 
-
+https://github.com/Roqieux/Logo-Maker/blob/main/ExampleVid.mp4
 
 ## Examples 
 <img alt="Example Logo 1" src="https://github.com/Roqieux/Logo-Maker/blob/main/examples/example1.svg">
